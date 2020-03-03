@@ -22,30 +22,7 @@
       "id": 4
     }
   ],
-  "posts": [
-    {
-      "id": 1,
-      "nome": "Valdir Silva",
-      "password": "698dc19d489c4e4db73e28a713eab07b",
-      "profile": "admin",
-      "email": "teste@mail.com"
-    },
-    {
-      "id": 3,
-      "nome": "Lila Felix",
-      "password": "698dc19d489c4e4db73e28a713eab07b",
-      "profile": "admin",
-      "email": "lila@mail.com"
-    },
-    {
-      "nome": "Julia Felix",
-      "password": "111111",
-      "profile": "user",
-      "email": "julia@gmail.com",
-      "id": 4
-    }
-  ],
-  "contacts": [
+  "contatos": [
     {
       "id": 1,
       "name": "Valdir Silva",
